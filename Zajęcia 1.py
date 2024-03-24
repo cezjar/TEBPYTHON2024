@@ -17,3 +17,5 @@ print(meters, ' m')
 print(round(inches, 2), 'cali')
 print(round(feet, 2), 'stóp')
 print(round(miles, 2), 'mil')
+
+#Należy wykonać wszystkie laboratoria z modułu 2 z kursu python na netacad.
